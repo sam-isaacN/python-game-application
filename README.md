@@ -17,7 +17,7 @@ For running this script you need:
 
 ### How to Use/Run:
 1. Clone this repository
-2. Go to `\python-games` directory and Execute `guess_a_number.py`, `mad_libs.py` or `rock_paper_scissors.py` : 
+2. Go to `\games` directory and Execute `guess_a_number.py`, `mad_libs.py` or `rock_paper_scissors.py` : 
     ```
     $ python guess_a_number.py
     $ python mad_libs.py  
